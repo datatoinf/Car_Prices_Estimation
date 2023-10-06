@@ -1,5 +1,5 @@
 # Car_Prices_Estimation
-libraries: numpy, pandas, seaborn, matplotlib
+libraries: numpy, pandas, seaborn, matplotlib /n
 Descriptive Statistics
 Histograms
 Frequency Tables
